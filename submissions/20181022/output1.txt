@@ -1,0 +1,15 @@
+Key 90 already present in the hash table. Status of the hash table.
+Number of keys: 3
+Number of buckets: 2
+Bucket 0:   12, 90
+Bucket 1:  15
+
+Key 12 already present in the hash table. Status of the hash table.
+Number of keys: 9
+Number of buckets: 6
+Bucket 0:   12, 90, 60
+Bucket 1:  
+Bucket 2:
+Bucket 3:  15, 105, 33
+Bucket 4:  40, 64
+Bucket 5:  5
